@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "342430192384",
+    "project_id": "petpulse-37d67",
+    "storage_bucket": "petpulse-37d67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342430192384:android:5492afca11590e3fa459e5",
+        "android_client_info": {
+          "package_name": "com.example.pet_pulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342430192384-7eqv681dg12klp9ske12qq0chd6uass0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pet_pulse",
+            "certificate_hash": "94aa0d3f38f5b6151b70c6e492f9367cc27f2dcf"
+          }
+        },
+        {
+          "client_id": "342430192384-mqqqiove3rc0gnbea7eeg11c5qukil4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqkN8BP_rlGyKK-ffTeoFtpdNCPBUdlXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342430192384-mqqqiove3rc0gnbea7eeg11c5qukil4b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342430192384-47enndurvtnpf00gq7q9kfinvh2ockk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.petpulse.petpulse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342430192384:android:fc78485e6f1a895da459e5",
+        "android_client_info": {
+          "package_name": "com.example.sokak_hayvanlari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342430192384-mqqqiove3rc0gnbea7eeg11c5qukil4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqkN8BP_rlGyKK-ffTeoFtpdNCPBUdlXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342430192384-mqqqiove3rc0gnbea7eeg11c5qukil4b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342430192384-47enndurvtnpf00gq7q9kfinvh2ockk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.petpulse.petpulse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342430192384:android:063f782047b572d4a459e5",
+        "android_client_info": {
+          "package_name": "com.petpulse.petpulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342430192384-bk44cpe0fn6sso8je1ujnam13557l3v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.petpulse.petpulse",
+            "certificate_hash": "80f0862d1add9a73fdea7e88968e30367dba53a4"
+          }
+        },
+        {
+          "client_id": "342430192384-mqqqiove3rc0gnbea7eeg11c5qukil4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqkN8BP_rlGyKK-ffTeoFtpdNCPBUdlXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342430192384-mqqqiove3rc0gnbea7eeg11c5qukil4b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342430192384-47enndurvtnpf00gq7q9kfinvh2ockk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.petpulse.petpulse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
