@@ -2,7 +2,7 @@
     <application
         android:label="pet_pulse"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@drawable/applogo">
         <activity
             android:name=".MainActivity"
             android:exported="true"
